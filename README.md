@@ -1,7 +1,7 @@
 # LAFF_Finally_TeX-notes
-#=======================
+=======================
 TeX notes for the LAFF_Matlab Repo
-#=======================
+=======================
 
 Learning (La)TeX is important to me, as is understanding 
 computational thinking and Matlab.
