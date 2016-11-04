@@ -11,4 +11,7 @@ I used the TeX IDE for this, writing in LaTex.
 I'm learning, and using tutorials and SOverflow as I go
 to solve problems and figure things out.
 
+A lot of people I really admire use LaTex.
+I think, given my interests, it will be worthwhile for me to learn as well.
+
 
